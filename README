@@ -1,0 +1,34 @@
+## Synopsis
+
+Human and Animal Simulation Using Python
+
+## Contents
+
+snoopy/colourtable.py - contains the code sourced from Matplotlb (Matplotlib, n.d.) for the reference colourtable.
+snoopy/snoo.py - contains the main code for the puppy/squirrel simulation
+snoopy/creatures.py - contains the class objects for puppy's, squirrel's, humans, and neigbors.
+snoopy/__pycache__/colourtable.cpython-312.pyc - cache for colourtable.py code
+snoopy/__pycache__/creatures.cpython-312.pyc - cache for creatures.py code.
+
+## Dependancies
+
+matplotlib
+numpy
+
+## Version Information
+
+    - 1.0 - 20/4/2024
+    - 2.0 - 21/4/2024
+    - 3.0 - 22/4/2024
+    - 4.0 - 23/4/2024
+    - 5.0 - 23/4/2024
+    - 6.0 - 24/4/2024
+    - 7.0 - 25/4/2024
+    - 8.0 - 26/4/2024
+    - 9.0 - 27/4/2024
+    - 10.0 - 28/4/2024
+    - 11.0 - 29/4/2024
+    - 12.0 - 29/4/2024
+
+
+
